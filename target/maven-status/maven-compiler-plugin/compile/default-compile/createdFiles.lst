@@ -1,3 +1,4 @@
+model\entities\Seller.class
 db\DbIntegrityException.class
 model\entities\Department.class
 db\DB.class
